@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap-modal-curd/static/css/main.6b37ffd4.css",
+    "main.js": "/react-bootstrap-modal-curd/static/js/main.d4fa3a87.js",
+    "static/js/453.3eb3e129.chunk.js": "/react-bootstrap-modal-curd/static/js/453.3eb3e129.chunk.js",
+    "index.html": "/react-bootstrap-modal-curd/index.html",
+    "main.6b37ffd4.css.map": "/react-bootstrap-modal-curd/static/css/main.6b37ffd4.css.map",
+    "main.d4fa3a87.js.map": "/react-bootstrap-modal-curd/static/js/main.d4fa3a87.js.map",
+    "453.3eb3e129.chunk.js.map": "/react-bootstrap-modal-curd/static/js/453.3eb3e129.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b37ffd4.css",
+    "static/js/main.d4fa3a87.js"
+  ]
+}
